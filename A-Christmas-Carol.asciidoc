@@ -3,7 +3,7 @@
 = A Christmas Carol, by Charles Dickens
 
 == STAVE  ONE.
-MARLEY’S GHOST.
+=== MARLEY’S GHOST.
 
 
 Marley was dead: to begin with. There is no doubt whatever about that.
@@ -779,7 +779,7 @@ repose; went straight to bed, without undressing, and fell asleep upon
 the instant. 
 
 == STAVE  TWO.
-THE FIRST OF THE THREE SPIRITS.
+=== THE FIRST OF THE THREE SPIRITS.
 
 
 When Scrooge awoke, it was so dark, that looking out of bed, he could
@@ -1486,7 +1486,7 @@ parting squeeze, in which his hand relaxed; and had barely time to reel
 to bed, before he sank into a heavy sleep.
 
 == STAVE  THREE.
-THE SECOND OF THE THREE SPIRITS.
+=== THE SECOND OF THE THREE SPIRITS.
 
 Awaking in the middle of a prodigiously tough snore, and sitting up in
 bed to get his thoughts together, Scrooge had no occasion to be told
@@ -2354,7 +2354,7 @@ Marley, and lifting up his eyes, beheld a solemn Phantom, draped and
 hooded, coming, like a mist along the ground, towards him. 
 
 == STAVE  FOUR.
-THE LAST OF THE SPIRITS.
+=== THE LAST OF THE SPIRITS.
 
 The Phantom slowly, gravely, silently, approached. When it came near
 him, Scrooge bent down upon his knee; for in the very air through which
@@ -3010,7 +3010,7 @@ an alteration in the Phantom’s hood and dress. It shrunk, collapsed, and
 dwindled down into a bedpost. 
 
 == STAVE  FIVE.
-THE END OF IT.
+=== THE END OF IT.
 
 Yes! and the bedpost was his own. The bed was his own, the room was his
 own. Best and happiest of all, the Time before him was his own, to make
